@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [building multipage website](https://themeforest.net/item/exdos-creative-agency-figma-template/48371672)
 
-- 🌱 I’m currently learning **sass, javascript, vue, php, laravel, wordpress**
+- 🌱 I’m currently learning **c**
 
 - 👨‍💻 All of my projects are available at [https://github.com/developereza](https://github.com/developereza)
 
-- 💬 Ask me about **html css**
+- 💬 Ask me about **c**
 
 - 📫 How to reach me **dev.rezaa@gmail.com**
 
